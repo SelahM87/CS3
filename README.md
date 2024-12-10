@@ -38,8 +38,4 @@ To get started with the case study, please follow these steps:
 
 ---
 
-## License
-
-Include licensing information here if applicable.
-
 
