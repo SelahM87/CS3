@@ -1,4 +1,4 @@
-# CS3-DS4002: Alzheimer’s Detection Case Study
+# CS3-DS4002: Alzheimer’s Impairement Classification Case Study
 
 This repository contains the study, deliverables, data, and reference materials necessary to complete the Case Study.
 
@@ -37,5 +37,5 @@ To get started with the case study, please follow these steps:
 3. **Use the Materials Folder**: Refer to the materials for context, CNN tips, and transfer learning guidance.
 
 ---
-
+Note: this is an adhoc situation and not affliated with Biogen technology
 
